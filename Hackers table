@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+clrscr();
+printf("Start mission hacking');
+getch();
+return0;
+}
